@@ -53,7 +53,7 @@ body {
 
 #hero {
   background-color: #7550fe;
-  height: 20em;
+  height: 25em;
 }
 
 #sub-hero div i {
@@ -66,4 +66,13 @@ body {
   padding-left: 0.6em;
   width: 2.2em;
   height: 2.2em;
+}
+#feedback {
+  position: relative;
+}
+
+#stars {
+  height: 6em;
+  position: absolute;
+  top: 14em;
 }
